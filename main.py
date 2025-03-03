@@ -16,7 +16,7 @@ st.markdown("""
 3. Assume A (10 points) for each course to get **Maximum Possible Points**.
 4. **CGPA Formula**:  
 \[
-   \text{CGPA} = \left( \frac{\text{Total Earned Points}}{\text{Total Max Points}} \right) \times 10
+\text{CGPA} = \frac{\text{Total Earned Points}}{\text{Total Max Points}} \times 10
 \]
 """)
 
