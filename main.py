@@ -15,9 +15,7 @@ st.markdown("""
 2. Multiply grade points by course credits to get **Earned Points**.
 3. Assume A (10 points) for each course to get **Maximum Possible Points**.
 4. **CGPA Formula**:  
-\[
-\text{CGPA} = \frac{\text{Total Earned Points}}{\text{Total Max Points}} \times 10
-\]
+   CGPA = (Total Earned Points / Total Max Points) × 10
 """)
 
 # Course Input Form
